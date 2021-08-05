@@ -14,7 +14,8 @@ ___
  
    <img src="logo_YGG.gif" width="200"/> 
   <br>
-  Este diseño mio es un prototipo de mi logo o personaje, contiene las letras iniciales de mi nombre "YGG" Yeison Gómez Gómez
+  Este diseño mio es un prototipo de mi logo o personaje, 
+ contiene las letras iniciales de mi nombre "YGG" Yeison Gómez Gómez
   <br>
   ¿Alguna sugerencia o recomendación 🧐?
   
