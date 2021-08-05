@@ -1,3 +1,2 @@
 ### Hi there 👋
-
-https://img.shields.io/github/downloads/yeison/yeison20/total
+.. image:: https://img.shields.io/github/downloads/yeison/yeison20/total   :alt: GitHub all releases
