@@ -12,7 +12,7 @@ ___
 
 <p  align="center">
  
-   <img src="logo.png" width="200"/> 
+   <img src="logo_YGG.gif" width="200"/> 
   <br>
   Este diseño mio es un prototipo de mi logo o personaje, contiene las letras iniciales de mi nombre "YGG" Yeison Gómez Gómez
   <br>
